@@ -1,0 +1,17 @@
+Point|A0|211|198|Black|5|1
+Point|A1|477|287|Black|5|1
+Point|A5|877|98|Black|5|4
+Line|A1 A5|Red|5
+Point|A3|592|433|Black|5|1
+Point|A5|877|98|Black|5|4
+Point|A11|723|192|Black|5|1
+Point|A5|877|98|Black|5|4
+Point|A17|924|302|Black|5|1
+Rectangle|A5 A17|Red|5|0
+Point|A5|877|98|Black|5|4
+Line|A5 A5|Black|5
+Line|A11 A5|Black|5
+Line|A5 A5|Black|5
+Line|A3 A5|Black|5
+Line|A1 A3|Black|5
+Line|A0 A1|Black|5

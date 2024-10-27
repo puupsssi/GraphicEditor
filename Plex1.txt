@@ -1,0 +1,21 @@
+Point|A0|170|199|Black|5|2
+Point|A1|333|37|Black|5|1
+Point|A13|680|48|Black|5|1
+Point|A17|754|116|Black|5|1
+Line|A13 A17|Red|5
+Line|A1 A13|Red|5
+Point|A3|671|265|Black|5|1
+Point|A19|635|97|Black|33|1
+Point|A21|183|197|Black|33|1
+Line|A19 A21|Red|33
+Line|A3 A19|Red|33
+Point|A11|753|111|Black|5|1
+Line|A3 A11|Red|5
+Point|A5|332|262|Black|5|1
+Point|A0|170|199|Black|5|2
+Point|A9|155|37|Black|5|1
+Line|A0 A9|Red|5
+Line|A5 A0|Red|5
+Line|A3 A5|Red|5
+Line|A1 A3|Red|5
+Line|A0 A1|Red|5
